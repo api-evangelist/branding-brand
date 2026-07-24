@@ -1,0 +1,110 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.npmjs.com/org/brandingbrand
+notes: >-
+  First-party open-source client libraries for Branding Brand's Flagship and
+  Flagship Code React Native commerce toolkits, published under the
+  @brandingbrand npm scope from https://github.com/brandingbrand. All MIT
+  licensed. Verified present on the npm registry 2026-07-18. Branding Brand
+  publishes no public REST API / OpenAPI; these packages are its developer
+  surface.
+packages:
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/flagship"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/flagship
+    install: npm install @brandingbrand/flagship
+    license: MIT
+    official: true
+    description: React Native Configuration-as-Code toolkit (Flagship core, ships the `flagship` CLI bin)
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fscomponents"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fscomponents
+    install: npm install @brandingbrand/fscomponents
+    license: MIT
+    official: true
+    description: Reusable, cross-platform frontend components
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsapp"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fsapp
+    install: npm install @brandingbrand/fsapp
+    license: MIT
+    official: true
+    description: Flagship app base
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fscommerce"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fscommerce
+    install: npm install @brandingbrand/fscommerce
+    license: MIT
+    official: true
+    description: Commerce Data Layer for Flagship (commerce API adapters)
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsengage"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fsengage
+    install: npm install @brandingbrand/fsengage
+    license: MIT
+    official: true
+    description: Analytics, CMS, and Settings module for Flagship
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsnetwork"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fsnetwork
+    install: npm install @brandingbrand/fsnetwork
+    license: MIT
+    official: true
+    description: Networking libraries for Flagship
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsi18n"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fsi18n
+    install: npm install @brandingbrand/fsi18n
+    license: MIT
+    official: true
+    description: Internationalization helpers for Flagship
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsfoundation"
+    version: 11.20.2
+    url: https://www.npmjs.com/package/@brandingbrand/fsfoundation
+    install: npm install @brandingbrand/fsfoundation
+    license: MIT
+    official: true
+    description: Foundation types for Flagship
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/fsweb"
+    version: 11.88.1
+    url: https://www.npmjs.com/package/@brandingbrand/fsweb
+    install: npm install @brandingbrand/fsweb
+    license: MIT
+    official: true
+    description: Web (PWA) target library for Flagship
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/code-core"
+    version: 12.1.0
+    url: https://www.npmjs.com/package/@brandingbrand/code-core
+    install: npm install @brandingbrand/code-core
+    license: MIT
+    official: true
+    description: Core tools for Flagship Code React Native applications
+  - language: javascript
+    registry: npm
+    name: "@brandingbrand/code-cli"
+    version: 14.3.0
+    url: https://www.npmjs.com/package/@brandingbrand/code-cli
+    install: npm install @brandingbrand/code-cli
+    license: MIT
+    official: true
+    description: CLI for Flagship Code applications (ships the `flagship-code` bin)

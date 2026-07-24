@@ -1,0 +1,29 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.npmjs.com/package/@brandingbrand/code-cli
+docs: https://brandingbrand.github.io/flagship/
+notes: >-
+  Branding Brand's Flagship Code toolkit ships a first-party CLI. The current
+  Flagship Code CLI is @brandingbrand/code-cli (bin `flagship-code`); the legacy
+  Flagship core package @brandingbrand/flagship ships a `flagship` bin. Both are
+  open-source (MIT) React Native build/scaffolding tools, not a REST-API client.
+  Command surface below reflects the documented Flagship Code developer flows;
+  run `flagship-code --help` for the authoritative, version-specific list.
+clis:
+  - name: flagship-code
+    package: "@brandingbrand/code-cli"
+    version: 14.3.0
+    install:
+      - npm install --save-dev @brandingbrand/code-cli
+      - npx flagship-code <command>
+    invocation: flagship-code
+    purpose: >-
+      Generate and manage the ephemeral native iOS/Android code for a Flagship
+      Code React Native commerce application from configuration.
+  - name: flagship
+    package: "@brandingbrand/flagship"
+    version: 11.88.1
+    install:
+      - npm install @brandingbrand/flagship
+    invocation: flagship
+    purpose: Legacy Flagship core toolkit CLI (Nx-based configuration-as-code).

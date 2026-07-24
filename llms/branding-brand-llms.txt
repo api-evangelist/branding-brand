@@ -1,0 +1,33 @@
+# Branding Brand
+
+> Branding Brand is a Pittsburgh-based digital and mobile commerce technology company that has built native apps and websites for enterprise retailers for 15+ years. Its developer surface is the open-source Flagship and Flagship Code React Native toolkits (published under the @brandingbrand npm scope), plus the newer AI-assisted Shipcode platform. Branding Brand publishes no public REST API or OpenAPI; this profile catalogs its open-source packages, CLI, and developer resources.
+
+## Products
+- [Shipcode](https://shipcode.com/): AI-powered, no-code platform for building digital commerce experiences
+- [Flagship Code](https://brandingbrand.github.io/flagship/): React Native toolkit for ephemeral native code generation (configuration-as-code)
+- [Flagship (core)](https://github.com/brandingbrand/flagship): React Native Configuration-as-Code toolkit for omnichannel commerce apps
+
+## Packages (npm, @brandingbrand, MIT, official)
+- [@brandingbrand/flagship](https://www.npmjs.com/package/@brandingbrand/flagship): Flagship core toolkit (ships `flagship` CLI)
+- [@brandingbrand/fscomponents](https://www.npmjs.com/package/@brandingbrand/fscomponents): Reusable cross-platform frontend components
+- [@brandingbrand/fsapp](https://www.npmjs.com/package/@brandingbrand/fsapp): Flagship app base
+- [@brandingbrand/fscommerce](https://www.npmjs.com/package/@brandingbrand/fscommerce): Commerce Data Layer / commerce API adapters
+- [@brandingbrand/fsengage](https://www.npmjs.com/package/@brandingbrand/fsengage): Analytics, CMS, and Settings module
+- [@brandingbrand/fsnetwork](https://www.npmjs.com/package/@brandingbrand/fsnetwork): Networking libraries
+- [@brandingbrand/fsi18n](https://www.npmjs.com/package/@brandingbrand/fsi18n): Internationalization helpers
+- [@brandingbrand/fsfoundation](https://www.npmjs.com/package/@brandingbrand/fsfoundation): Foundation types
+- [@brandingbrand/fsweb](https://www.npmjs.com/package/@brandingbrand/fsweb): Web (PWA) target library
+- [@brandingbrand/code-core](https://www.npmjs.com/package/@brandingbrand/code-core): Flagship Code core tools
+- [@brandingbrand/code-cli](https://www.npmjs.com/package/@brandingbrand/code-cli): Flagship Code CLI (ships `flagship-code`)
+
+## Docs
+- [Flagship Code documentation](https://brandingbrand.github.io/flagship/)
+- [Get Started](https://brandingbrand.github.io/flagship/overview/overview/)
+- [GitHub organization](https://github.com/brandingbrand)
+
+## Company
+- [Website](https://www.brandingbrand.com/)
+- [Security](https://www.brandingbrand.com/security)
+- [Privacy](https://www.brandingbrand.com/privacy)
+- [Contact](https://www.brandingbrand.com/contact)
+- [Careers](https://brandingbrand.bamboohr.com/careers)
