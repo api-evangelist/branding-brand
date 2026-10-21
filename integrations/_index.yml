@@ -43,3 +43,16 @@
     detected: '2026-10-18'
   status: not-a-workflow
   arazzo: null
+- slug: branding-brand-salesforce-commerce-cloud-own
+  label: Salesforce Commerce Cloud (own)
+  partner: salesforce-commerce-cloud
+  partner_name: Salesforce Commerce Cloud (own)
+  category: eCommerce, marketing, loyalty
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://appexchange.salesforce.com/appxListingDetail?listingId=dcb16a9c-3d87-4d0e-a607-7256fec7ace6
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
